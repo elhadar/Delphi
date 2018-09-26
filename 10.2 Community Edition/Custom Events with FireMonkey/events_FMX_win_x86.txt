@@ -1,0 +1,3 @@
+Custom Events with FireMonkey on Delphi 10.2 Community Edition
+
+Developed by Rubén Juan Blasco Lloret 
